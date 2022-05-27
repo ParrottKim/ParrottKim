@@ -1,4 +1,4 @@
-[![ScreenShot_20220516150049112](https://user-images.githubusercontent.com/83802425/168550259-7fdd3fef-2939-4f72-bd07-a4338290ec4d.png)](https://parrottkim.github.io/)
+[![ScreenShot_20220527105857 (1)](https://user-images.githubusercontent.com/83802425/170613551-c53bd015-f84d-4217-9d17-01feb3f910dd.png)](https://parrottkim.github.io/)
 
 <div align=center>
 
