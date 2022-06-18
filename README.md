@@ -28,7 +28,6 @@ I would like to develop user-centered services through better experiences and co
 <hr>
 
 #### [🌐 Portfolio](https://parrottkim.github.io) 
-(Under Development)
 
 </div>
 
