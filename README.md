@@ -1,4 +1,4 @@
-![ScreenShot_20220530203931](https://user-images.githubusercontent.com/83802425/170985157-8e402626-5ce3-43f4-8a01-71d2e4b3212d.png)
+![Group 37](https://github.com/ParrottKim/ParrottKim/assets/83802425/db9d1166-0d14-4f47-9861-ff185d6cdb6e)
 
 <div align=center>
 
