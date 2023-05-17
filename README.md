@@ -1,4 +1,4 @@
-![Group 37](https://github.com/ParrottKim/ParrottKim/assets/83802425/db9d1166-0d14-4f47-9861-ff185d6cdb6e)
+![Group 37](https://github.com/ParrottKim/ParrottKim/assets/83802425/0aafe73a-71b3-4094-992c-dee31a803c7f)
 
 <div align=center>
 
