@@ -1,11 +1,11 @@
 ![Group 37](https://github.com/ParrottKim/ParrottKim/assets/83802425/0aafe73a-71b3-4094-992c-dee31a803c7f)
-
+<div align=center>
 <a href="https://instagram.com/parrottkim_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/parrott-kim-40701823b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:parrottkim21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</div>
   
 ### [🌐 My Webstie](https://parrottkim.github.io) 
-
 
 Hi there! 👋
 
