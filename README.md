@@ -5,7 +5,7 @@
 <a href="mailto:parrottkim21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
   
-### [🌐 My Webstie](https://parrottkim.github.io) 
+### [🌐 My Website](https://parrottkim.github.io) 
 
 Hi there! 👋
 
